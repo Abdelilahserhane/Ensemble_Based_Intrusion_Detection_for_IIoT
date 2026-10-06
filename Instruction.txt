@@ -4,10 +4,6 @@ Code for the paper *Ensemble-Based Intrusion Detection for IIoT: A Two-Stage
 Classification Framework with Feature Selection and Data Balancing*
 (A. Serhane, K. Ibrahimi, E.-M. Hamzaoui, submitted to IEEE Access).
 
-The repository contains only what is needed to reproduce the final results
-reported in the paper. The exploratory comparisons (dimensionality reduction
-methods, SMOTE variants) are not included.
-
 ## Data
 
 We use the network traffic of the CIC-APT IIoT 2024 dataset
