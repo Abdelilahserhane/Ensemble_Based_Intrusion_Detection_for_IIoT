@@ -61,6 +61,7 @@ unseen attacks, and several hours for the repeated cross-validation of
 `binary_robustness.py`.
 
 ## Installation
+Tested with Python 3.11
 
 ```bash
 pip install -r requirements.txt
