@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+catboost
+tensorflow  # only for src/binary_cnn1d.py

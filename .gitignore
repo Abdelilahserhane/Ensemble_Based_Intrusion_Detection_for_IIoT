@@ -1,0 +1,4 @@
+__pycache__/
+*.csv
+catboost_info/
+.ipynb_checkpoints/
