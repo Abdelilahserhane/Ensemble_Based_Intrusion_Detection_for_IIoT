@@ -78,5 +78,5 @@ identical, but a couple of single-split results moved by a few packets (this is
 discussed in Section III-C of the paper). The cross-validated results and the
 statistical tests are much less sensitive to this.
 
-#*Ensemble-Based Intrusion Detection for IIoT: A Two-Stage
-Classification Framework with Feature Selection and Data Balancing*#
+License
+MIT, see LICENSE.
